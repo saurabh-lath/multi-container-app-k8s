@@ -12,4 +12,3 @@ spec:
   dnsNames:
     - '*.kubeschool.org'
     - kubeschool.org
-    - www.kubeschool.org
