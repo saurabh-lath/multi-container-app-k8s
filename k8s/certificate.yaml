@@ -11,5 +11,5 @@ spec:
   commonName: '*.kubeschool.org'
   dnsNames:
     - '*.kubeschool.org'
-    - .kubeschool.org
+    - kubeschool.org
     - www.kubeschool.org
